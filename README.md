@@ -13,13 +13,13 @@
 
 <!--      LinkedIn Link  -->
 <a href="https://www.linkedin.com/in/jesslyn-lengkong-13897499/" target="_blank">
-    <img width="100" height="100" src="https://img.icons8.com/bubbles/50/linkedin.png" alt="LinkedIn Profile"/>
+   <img width="100" height="100" src="https://img.icons8.com/plasticine/100/linkedin.png" alt="linkedin"/>
 </a>
 <!--      Email Address Link  -->
 <a href="mailto:jesslynlengkong.mt@gmail.com">
-    <img width="100" height="100" src="https://img.icons8.com/bubbles/50/email--v1.png" alt="Email Address"/>
+    <img width="100" height="100" src="https://img.icons8.com/plasticine/100/gmail.png" alt="gmail"/>
 </a>
-  
+
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
