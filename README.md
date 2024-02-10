@@ -2,7 +2,7 @@
 <h3 align="center">An Oral Health Therapist and aspiring Data Analyst </h3>
 
 
-🌱 Recent completion Intensive 24-week Data Visualisation Bootcamp with Western Australia </br> 
+🌱 Recent completion of an intensive 24-week Data Visualisation Bootcamp with The University of Western Australia (UWA) </br> 
 💞️ Special interest in front end development</br> 
 🔍 Currently looking for Data Analyst career paths </br> 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jesslyn-lengkong-13897499/) or click icon the icon below </br> 
