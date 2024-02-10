@@ -2,8 +2,8 @@
 <h3 align="center">An Oral Health Therapist and aspiring Data Analyst </h3>
 
 
-🌱 Currently undergoing a bootcamp in Data Analytics with University of Western Australia </br> 
-💞️ Special interest in dashboard use and keen to learn more about Machine Learning </br> 
+🌱 Recent completion Intensive 24-week Data Visualisation Bootcamp with Western Australia </br> 
+💞️ Special interest in front end development</br> 
 🔍 Currently looking for Data Analyst career paths </br> 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jesslyn-lengkong-13897499/) or click icon the icon below </br> 
 💬 Email me at jesslynlengkong.mt@gmail.com connect or click on the icon below </br> 
